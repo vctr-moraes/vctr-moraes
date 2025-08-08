@@ -1,5 +1,4 @@
 ```css
-Hi There
 My name is Victor
 I work at IBM, acting as Application Developer in consulting projects
 My specialty is the development of web platform applications, especially microservices
